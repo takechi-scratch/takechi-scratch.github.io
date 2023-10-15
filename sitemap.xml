@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>http://takechi.starfree.jp/</loc>
+  <priority>1.0</priority>
+  <lastmod>2023-10-09T12:45:52+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/about/</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-10-08T17:25:37+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/scratch/</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-10-09T12:31:05+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/tools/</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-10-08T17:26:21+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/blog/</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-10-01T16:13:58+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/contact/</loc>
+  <priority>0.8</priority>
+  <lastmod>2023-10-01T16:13:58+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/scratch/cs/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-09T12:04:39+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/tools/json/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-08T17:26:39+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/tools/CS_check/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-01T16:13:41+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/tools/piano-realtime/</loc>
+  <priority>0.7</priority>
+  <lastmod>2023-10-01T16:13:41+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/tools/json/json_rewrite_ver.1.1.py</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-10-01T21:33:57+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://takechi.starfree.jp/tools/json/json_rewrite_ver.1.0.py</loc>
+  <priority>0.6</priority>
+  <lastmod>2023-10-01T12:31:24+09:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+
+</urlset>
